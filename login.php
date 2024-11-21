@@ -2,7 +2,7 @@
 session_start();
 
 // Database connection details
-$servername = "127.0.0.1:3306";
+$servername = "localhost";
 $username = "root"; // Default XAMPP username
 $password = ""; // Default XAMPP password (empty)
 $dbname = "student_portal";
